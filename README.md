@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @Leclowndu93150 on discord
 - 😄 Pronouns: shut yo ass up
 - (default Github shit is so cringe)
+
+![](https://komarev.com/ghpvc/?username=Leclowndu93150)
