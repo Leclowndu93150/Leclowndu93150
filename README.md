@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn.discordapp.com/attachments/959801878135316511/1214687721289949254/5ci9uXoV.png?ex=65fa0518&is=65e79018&hm=959a4069a6c5711ac5e345ec40e48ad7062d6db8604125d2580702d617990048&" width="250" height="250" alt="Logo"></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/959801878135316511/1214687721289949254/5ci9uXoV.png?ex=65fa0518&is=65e79018&hm=959a4069a6c5711ac5e345ec40e48ad7062d6db8604125d2580702d617990048&" width="150" height="150" alt="Logo"></p>
 <h1 align="center">Nomifactory CEu Modern</h1>
 <p align="center"><b><i>Port of <a href="https://github.com/Nomi-CEu/Nomi-CEu"> Nomifactory CEu</a>, using <a href="https://github.com/GregTechCEu/GregTech-Modern"> GregTech CEu Modern</a> and its related mods.</i></b></p>
 <h1 align="center">
