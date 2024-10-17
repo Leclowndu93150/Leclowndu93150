@@ -2,7 +2,7 @@
 
 **`Minecraft Lover and Mod Developer`**
 
-I'm a 17 years old dude who's pationate about programming since elementary school. I love playing Modded Minecraft and have thousands of hours on it !
+I'm a 17 years old dude who's passionate about programming since elementary school. I love playing Modded Minecraft and have thousands of hours on it !
 I have completed one of the most difficult expert modpack called [Divine Journey 2](https://www.curseforge.com/minecraft/modpacks/divine-journey-2) but since then i've been making mods to learn Java. [Here](https://www.curseforge.com/members/project8gbderam/projects) you can find my Curseforge profile !
 
    <p align="left">
