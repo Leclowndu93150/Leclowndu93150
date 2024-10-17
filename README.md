@@ -9,8 +9,7 @@ I have completed one of the most difficult expert modpack called [Divine Journey
       <a href="https://www.reddit.com/user/Leclowndu9315/">
          <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/Leclowndu9315?style=for-the-badge&logo=reddit&logoColor=%23FFFFFF&labelColor=%23FF4500&color=%23FF6E2D&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2FLeclowndu9315%2F"></a> 
         <img alt="Static Badge" src="https://img.shields.io/badge/-%40Leclowndu93150-orange?style=for-the-badge&logo=discord&color=%2323272A">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Leclowndu93150?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Leclowndu93150t?tab=repositories&sort=stargazers">
+      <a href="https://github.com/Leclowndu93150?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Leclowndu93150?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
