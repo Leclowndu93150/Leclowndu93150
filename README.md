@@ -11,7 +11,7 @@ I have completed one of the most difficult expert modpack called [Divine Journey
        <a href="https://discord.gg/m4EHeRjfZ9">
         <img alt="Static Badge" src="https://img.shields.io/badge/-%40Leclowndu93150-orange?style=for-the-badge&logo=discord&color=%2323272A"></a>
       <a href="https://www.curseforge.com/members/project8gbderam/projects">
-         <img alt="Static Badge" src="https://img.shields.io/badge/380k-logo?style=for-the-badge&logo=curseforge&label=Curseforge&labelColor=%20%23000000&color=%20%231e2024">
+         <img alt="Static Badge" src="https://img.shields.io/badge/480k-logo?style=for-the-badge&logo=curseforge&label=Curseforge&labelColor=%20%23000000&color=%20%231e2024">
    </p>
 
 ---
