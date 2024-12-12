@@ -2,7 +2,7 @@
 
 **`Minecraft Lover and Mod Developer`**
 
-I'm a 17 years old dude who's been passionate about programming since elementary school. I love playing Modded Minecraft and have thousands of hours on it !
+I'm an 18 years old dude who's been passionate about programming since elementary school. I love playing Modded Minecraft and have thousands of hours on it !
 I have completed one of the most difficult expert modpack called [Divine Journey 2](https://www.curseforge.com/minecraft/modpacks/divine-journey-2) but since then i've been making mods to learn Java. [Here](https://www.curseforge.com/members/project8gbderam/projects) you can find my Curseforge profile !
 
    <p align="left">
@@ -11,7 +11,7 @@ I have completed one of the most difficult expert modpack called [Divine Journey
        <a href="https://discord.gg/m4EHeRjfZ9">
         <img alt="Static Badge" src="https://img.shields.io/badge/-%40Leclowndu93150-orange?style=for-the-badge&logo=discord&color=%2323272A"></a>
       <a href="https://www.curseforge.com/members/project8gbderam/projects">
-         <img alt="Static Badge" src="https://img.shields.io/badge/480k-logo?style=for-the-badge&logo=curseforge&label=Curseforge&labelColor=%20%23000000&color=%20%231e2024">
+         <img alt="Static Badge" src="https://img.shields.io/badge/600k-logo?style=for-the-badge&logo=curseforge&label=Curseforge&labelColor=%20%23000000&color=%20%231e2024">
    </p>
 
 ---
