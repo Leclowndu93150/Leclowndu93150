@@ -1,3 +1,4 @@
+```
 Day 1: "Oh, another Minecraft update! Time to port my mod, should be easy."
 
 Day 3: *staring at NeoForge docs* "What do you mean the networking system changed AGAIN?"
@@ -29,3 +30,4 @@ Day 21:
 git commit -m "feat: fixed everything (real)"
 git commit -m "fix: fixed the fix that was supposed to fix everything"
 git commit -m "fix: AAAAAAAAAAAAAAAAAAAA"
+```
