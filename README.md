@@ -17,9 +17,8 @@ I have completed one of the most difficult expert modpack called [Divine Journey
 ---
 
 
-### 📊 Stats
 
-![Leclowndu93150's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leclowndu93150&show_icons=true&theme=gruvbox)
+[![Project8gbDeRam](https://modfolio.creeperkatze.de/curseforge/user/101661042?color=ffff80&backgroundColor=000000)](https://www.curseforge.com/members/project8gbderam) [![Leclowndu93150](https://modfolio.creeperkatze.de/modrinth/user/Leclowndu93150?backgroundColor=000000)](https://modrinth.com/user/Leclowndu93150)
 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Leclowndu93150restKnight&theme=gruvbox&border_radius=4.5) -->
